@@ -1,0 +1,15 @@
+#main{
+    margin:  10% 20%;
+}
+
+.inp{
+    float: right;
+    padding: 2px;
+    margin-right: 50%;
+}
+
+#btn{
+    padding: 5px 20px;
+    margin: 20px 0px;
+}
+
